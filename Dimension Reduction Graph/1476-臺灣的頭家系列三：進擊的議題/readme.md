@@ -6,7 +6,7 @@
 
 ### MCA 受訪者圖
 
-- [開啟 MCA 互動圖](https://daniel21322875.github.io/2026_daniel21322875_fall_undergraduate_research_project/Dimension%20Reduction%20Graph/1476-%E8%87%BA%E7%81%A3%E7%9A%84%E9%A0%AD%E5%AE%B6%E7%B3%BB%E5%88%97%E4%B8%89%EF%BC%9A%E9%81%B8%E8%88%89%E7%9A%84%E8%AD%B0%E9%A1%8C/1476_mca_interactive_respondents.html)
+- [開啟 MCA 互動圖]([https://daniel21322875.github.io/2026_daniel21322875_fall_undergraduate_research_project/Dimension%20Reduction%20Graph/1476-%E8%87%BA%E7%81%A3%E7%9A%84%E9%A0%AD%E5%AE%B6%E7%B3%BB%E5%88%97%E4%B8%89%EF%BC%9A%E9%81%B8%E8%88%89%E7%9A%84%E8%AD%B0%E9%A1%8C/1476_mca_interactive_respondents.html](https://daniel21322875.github.io/2026_daniel21322875_fall_undergraduate_research_project/Dimension%20Reduction%20Graph/1476-%E8%87%BA%E7%81%A3%E7%9A%84%E9%A0%AD%E5%AE%B6%E7%B3%BB%E5%88%97%E4%B8%89%EF%BC%9A%E9%80%B2%E6%93%8A%E7%9A%84%E8%AD%B0%E9%A1%8C/1476_mca_interactive_respondents.html))
 - 檔案：[1476_mca_interactive_respondents.html](./1476_mca_interactive_respondents.html)
 
 MCA 以 952 位在納入題目上完整作答的受訪者建立座標。分析排除前六個人口背景欄位、整份開放式問答，以及資料中全空白的 Q17 欄位；開放式問答只供互動圖檢視，不參與降維。本次納入 30 個類別變數，沒有缺答個案需要補充投影。

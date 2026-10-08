@@ -14,6 +14,7 @@ MCA 以 952 位在納入題目上完整作答的受訪者建立座標。分析�
 ### Spectral Embedding 圖
 
 - [開啟 Spectral Embedding 互動圖](https://daniel21322875.github.io/2026_daniel21322875_fall_undergraduate_research_project/Dimension%20Reduction%20Graph/1476-%E8%87%BA%E7%81%A3%E7%9A%84%E9%A0%AD%E5%AE%B6%E7%B3%BB%E5%88%97%E4%B8%89%EF%BC%9A%E9%81%B8%E8%88%89%E7%9A%84%E8%AD%B0%E9%A1%8C/1476_spectral_embedding_interactive_respondents.html)
+- 檔案：[1476_spectral_embedding_interactive_respondents.html](./1476_spectral_embedding_interactive_respondents.html)
 
 此圖以相同的 30 個類別變數計算受訪者間的回答差異，建立 k 近鄰圖後取拉普拉斯特徵向量作為二維座標。設定為 **k = 15**、**λ₂ = 1.9270**（以平均邊權重正規化）、**z₁₀ = 50/952（5.25%）**；圖中標示一個連通分量。z₁₀ 邊界可由圖例或上方按鈕開關。
 
